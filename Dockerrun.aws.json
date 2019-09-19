@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerDefinitionas": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "tcflux/multi-client",
